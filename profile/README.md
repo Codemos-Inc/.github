@@ -8,4 +8,6 @@ W create the best UI themes for your favorite code editors. Check if we have pub
 * [Codemos Vintage for VS Code](https://www.example.com)
 * [Codemos High Contrast for VS Code](https://www.example.com)
 
+---
+
 Visit [Codemos.dev](https://codemos.dev) to learn more!
