@@ -1,4 +1,4 @@
-![Codemos Logo](https://raw.githubusercontent.com/Codemos-Inc/.github/main/codemos_logo.png)
+![Codemos Logo|200](https://raw.githubusercontent.com/Codemos-Inc/.github/main/codemos_logo.png)
 
 ## Codemos Themes
 
