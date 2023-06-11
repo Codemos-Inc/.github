@@ -1,16 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Codemos-Inc/.github/main/codemos_logo.png" width="200"/>
+<img src="../Codemos Logo 1.png" width="320"/>
   
 </div>
 
-## Codemos Themes
+## Codemos Theme Family
 
-We create the best UI themes for your favorite code editors. Check if we have published a theme for your favorite code editor!
+We at Codemos are redefining how code editors look. Check out our favorite themes
 
-* [Codemos Modern for VS Code](https://www.example.com)
-* [Codemos Vintage for VS Code](https://www.example.com)
-* [Codemos High Contrast for VS Code](https://www.example.com)
+* [Codemos Modern for VS Code](https://marketplace.visualstudio.com/items?itemName=Codemos.codemos-modern)
+* _More to come..._
 
 ---
 
