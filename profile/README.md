@@ -1,4 +1,8 @@
-![Codemos Logo|200](https://raw.githubusercontent.com/Codemos-Inc/.github/main/codemos_logo.png)
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Codemos-Inc/.github/main/codemos_logo.png" width="200"/>
+  
+</div>
 
 ## Codemos Themes
 
