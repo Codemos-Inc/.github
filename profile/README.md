@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="../Codemos Logo 1.png" width="320"/>
+<img src="https://raw.githubusercontent.com/Codemos-Inc/.github/main/Codemos%20Logo%201.png" width="320"/>
   
 </div>
 
