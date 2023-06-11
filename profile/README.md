@@ -6,7 +6,7 @@
 
 ## Codemos Theme Family
 
-We at Codemos are redefining how code editors look. Check out our favorite themes
+We at Codemos are redefining how code editors look. Check out our favorite themes.
 
 * [Codemos Modern for VS Code](https://marketplace.visualstudio.com/items?itemName=Codemos.codemos-modern)
 * _More to come..._
